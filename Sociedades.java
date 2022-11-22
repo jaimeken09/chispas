@@ -8,6 +8,7 @@ public class Sociedades {
         Pulic String Provincia;
         Public String
         public Integer get ID() {return id;
-        public void set Nombre(String nombre){this.nombre=nombre:
+        public void set Nombre(String nombre){this.nombre=nombre,
+
         }
 }
