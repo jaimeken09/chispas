@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9370fb99-f7f9-4a7a-87cd-133843993d90" name="Changes" comment="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?">
-      <change afterPath="$PROJECT_DIR$/Facturas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Productos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarios.java" afterDir="false" />
+    <list default="true" id="9370fb99-f7f9-4a7a-87cd-133843993d90" name="Changes" comment="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?no se crearlo.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/_este es_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/txispis9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sociedades.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sociedades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/electricidad chispas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -89,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669152843823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.">
+      <created>1669155111002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669155111003</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?">
+      <created>1669240365541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669240365541</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?no se crearlo.">
+      <created>1669242251101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669242251101</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +130,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="creamos rama txispis parano liarla en la principal" />
     <MESSAGE value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?" />
-    <option name="LAST_COMMIT_MESSAGE" value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?" />
+    <MESSAGE value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale." />
+    <MESSAGE value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?" />
+    <MESSAGE value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?no se crearlo." />
+    <option name="LAST_COMMIT_MESSAGE" value="creamos rama txispis parano liarla en la principal; impresio--&lt;como invocar impresora?;&#10;/home/jaime/Escritorio/chema/chispas/electricidad chispas6.png es la imagen que vale.&#10;en dlientesse intent hacer un interface?no se crearlo." />
   </component>
 </project>
