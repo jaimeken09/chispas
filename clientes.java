@@ -1,4 +1,4 @@
-public class usuarios {
+public class implements clientes {
     Sociedades;
     Autonomos;
     private Integer get user;
